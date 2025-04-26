@@ -12,7 +12,7 @@ export default function Favorites() {
       ) : (
         <div>
           <p className="lg:text-4xl text-xl text-center text-black font-extrabold">
-            Nothing is added in favorites.
+            Nothing is added in favorites. Try serching Banana or chocolate.
           </p>
         </div>
       )}
